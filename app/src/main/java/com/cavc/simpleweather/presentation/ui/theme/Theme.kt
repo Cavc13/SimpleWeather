@@ -1,4 +1,4 @@
-package com.cavc.simpleweather.ui.theme
+package com.cavc.simpleweather.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build

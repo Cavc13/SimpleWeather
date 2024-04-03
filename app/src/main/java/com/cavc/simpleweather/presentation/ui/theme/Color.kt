@@ -1,4 +1,4 @@
-package com.cavc.simpleweather.ui.theme
+package com.cavc.simpleweather.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
