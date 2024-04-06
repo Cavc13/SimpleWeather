@@ -2,4 +2,7 @@
     <string name="app_name">Simple Weather</string>
     <string name="button_add_favourite">Add favourite</string>
     <string name="search">Search</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="empty_result_text">Такого города не существует</string>
+    <string name="something_went_wrong">Произошла ошибка</string>
 </resources>
