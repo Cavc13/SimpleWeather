@@ -48,11 +48,11 @@ class DefaultFavouriteComponent @AssistedInject constructor(
     override val model: StateFlow<FavouriteStore.State>
         get() = store.stateFlow
 
-    override fun onclickSearch() {
+    override fun onClickSearch() {
         store.accept(FavouriteStore.Intent.ClickSearch)
     }
 
-    override fun onclickAddFavourite() {
+    override fun onClickAddFavourite() {
         store.accept(FavouriteStore.Intent.ClickAddToFavourite)
     }
 

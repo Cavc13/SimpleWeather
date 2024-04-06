@@ -7,9 +7,9 @@ interface FavouriteComponent {
 
     val model: StateFlow<FavouriteStore.State>
 
-    fun onclickSearch()
+    fun onClickSearch()
 
-    fun onclickAddFavourite()
+    fun onClickAddFavourite()
 
     fun onCityItemClick(city: City)
 }
